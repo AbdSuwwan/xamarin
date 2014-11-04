@@ -1,0 +1,9 @@
+C:\Users\ASuwwan\Documents\Projects\TadweerMediaCenter\TadweerMediaCenter\obj\Debug\TadweerMediaCenter.csprojResolveAssemblyReference.cache
+C:\Users\ASuwwan\Documents\Projects\TadweerMediaCenter\TadweerMediaCenter\bin\Debug\TadweerMediaCenter.dll
+C:\Users\ASuwwan\Documents\Projects\TadweerMediaCenter\TadweerMediaCenter\bin\Debug\TadweerMediaCenter.pdb
+C:\Users\ASuwwan\Documents\Projects\TadweerMediaCenter\TadweerMediaCenter\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ASuwwan\Documents\Projects\TadweerMediaCenter\TadweerMediaCenter\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ASuwwan\Documents\Projects\TadweerMediaCenter\TadweerMediaCenter\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ASuwwan\Documents\Projects\TadweerMediaCenter\TadweerMediaCenter\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ASuwwan\Documents\Projects\TadweerMediaCenter\TadweerMediaCenter\obj\Debug\TadweerMediaCenter.dll
+C:\Users\ASuwwan\Documents\Projects\TadweerMediaCenter\TadweerMediaCenter\obj\Debug\TadweerMediaCenter.pdb

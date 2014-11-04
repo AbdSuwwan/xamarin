@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TadweerMediaCenter", "TadweerMediaCenter\TadweerMediaCenter.csproj", "{08B1EB14-1DC3-4119-B2DE-D43B4363BCAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TadweerMediaCenter.Android", "Android\TadweerMediaCenter.Android.csproj", "{E912AF32-0F1E-49C1-AA48-817BE8276CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B1EB14-1DC3-4119-B2DE-D43B4363BCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B1EB14-1DC3-4119-B2DE-D43B4363BCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B1EB14-1DC3-4119-B2DE-D43B4363BCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B1EB14-1DC3-4119-B2DE-D43B4363BCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E912AF32-0F1E-49C1-AA48-817BE8276CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E912AF32-0F1E-49C1-AA48-817BE8276CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E912AF32-0F1E-49C1-AA48-817BE8276CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E912AF32-0F1E-49C1-AA48-817BE8276CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Android\TadweerMediaCenter.Android.csproj
+	EndGlobalSection
+EndGlobal
